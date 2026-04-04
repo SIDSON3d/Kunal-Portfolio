@@ -5,9 +5,9 @@ import { MdArrowBack, MdArrowForward } from "react-icons/md";
 
 const projects = [
   {
-    title: "Prime Energy",
-    category: "3D Product Animation",
-    tools: "Blender, Modeling, Lighting, Animation",
+    title: "The Last Bell",
+    category: "3D Environment Design",
+    tools: "Blender, Modeling, Lighting, Texturing",
     image: "/images/Solidx.png",
   },
   {
@@ -23,15 +23,15 @@ const projects = [
     image: "/images/bond.png",
   },
   {
-    title: "Modern Villa Residency",
-    category: "Architecture / Environment",
-    tools: "Blender, Unreal Engine, Sketchup, Photoshop",
+    title: "iPhone 15 Product Visualization",
+    category: "3D Product Visualization",
+    tools: "Blender, Modeling, Lighting, Rendering",
     image: "/images/sapphire.png",
   },
   {
-    title: "Cosmos Visual Studio",
-    category: "UI/UX Design & Development",
-    tools: "Framer, Spline (3D Web)",
+    title: "Australian Outback — Road Trip",
+    category: "3D Environment Design",
+    tools: "Unreal Engine, Lighting, Environment Art",
     image: "/images/Maxlife.png",
   },
 ];

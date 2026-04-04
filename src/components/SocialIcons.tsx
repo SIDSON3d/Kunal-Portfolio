@@ -65,7 +65,7 @@ const SocialIcons = () => {
           </a>
         </span>
         <span>
-          <a href="https://www.linkedin.com/in/bhoopendra-rajpurohit-822636377/" target="_blank">
+          <a href="https://www.linkedin.com/in/kunal-singh-88aa80230/" target="_blank">
             <FaLinkedinIn />
           </a>
         </span>
@@ -75,13 +75,13 @@ const SocialIcons = () => {
           </a>
         </span>
         <span>
-          <a href="https://www.instagram.com/bhoopendra.16/" target="_blank">
+          <a href="https://www.instagram.com/half.awake.soul?igsh=MWJ0MXBlN21jeTQ4Yg%3D%3D&utm_source=qr" target="_blank">
             <FaInstagram />
           </a>
         </span>
       </div>
-      <a className="resume-button" href="https://cosmosvisualstudio.framer.website/">
-        <HoverLinks text="COSM" />
+      <a className="resume-button" href="https://www.artstation.com/kunalsingh475">
+        <HoverLinks text="CLICK FOR MORE" />
         <span>
           <TbNotes />
         </span>

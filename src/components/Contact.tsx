@@ -11,16 +11,16 @@ const Contact = () => {
             <h4>Email</h4>
             <p>
               <a href="mailto:rajpurohitbhoopendra@gmail.com" data-cursor="disable">
-                rajpurohitbhoopendra@gmail.com
+                ks.kunal2004@gmail.com
               </a>
             </p>
             <h4>Education</h4>
-            <p>B.com Honours</p>
+            <p>Computer Science & Engineering</p>
           </div>
           <div className="contact-box">
             <h4>Social</h4>
             <a
-              href="https://www.instagram.com/bhoopendra.16/"
+              href="https://www.instagram.com/half.awake.soul?igsh=MWJ0MXBlN21jeTQ4Yg%3D%3D&utm_source=qr"
               target="_blank"
               data-cursor="disable"
               className="contact-social"
@@ -28,7 +28,7 @@ const Contact = () => {
               Instagram <MdArrowOutward />
             </a>
             <a
-              href="https://www.linkedin.com/in/bhoopendra-rajpurohit-822636377"
+              href="https://www.linkedin.com/in/kunal-singh-88aa80230/"
               target="_blank"
               data-cursor="disable"
               className="contact-social"
@@ -54,7 +54,7 @@ const Contact = () => {
           </div>
           <div className="contact-box">
             <h2>
-              Designed and Developed <br /> by <span>Cosmos Visual Studio</span>
+              Designed and Developed <br /> by <span>Kunal Goyal</span>
             </h2>
             <h5>
               <MdCopyright /> 2026

@@ -87,22 +87,22 @@ const WhatIDo = () => {
             <div className="what-corner"></div>
 
             <div className="what-content-in">
-              <h3>VISUAL</h3>
-              <h4>3D, CGI & Visual Storytelling</h4>
+              <h3>REAL-TIME 3D</h3>
+              <h4>3D Art, Environments & Game Design</h4>
               <p>
-                I create product visuals,CGI and environments that turn ideas into clear visuals. 
-                I take products and your imaginary story to give them a realistic look.
+                I build immersive game environments from scratch 
+                designing spaces that feel real, play well, and tell a story without saying a word.
               </p>
               <h5>Skillset & tools</h5>
               <div className="what-content-flex">
                 <div className="what-tags">Blender</div>
                 <div className="what-tags">Unreal Engine</div>
-                <div className="what-tags">Cinema 4d</div>
-                <div className="what-tags">Clo 3d</div>
-                <div className="what-tags">Houdini</div>
-                <div className="what-tags">Compositing</div>
+                <div className="what-tags">Ai</div>
+                <div className="what-tags">Texturing</div>
+                <div className="what-tags">Modeling</div>
+                
                 <div className="what-tags">Animation</div>
-                <div className="what-tags">After Effect</div>
+                
               </div>
               <div className="what-arrow"></div>
             </div>
@@ -126,19 +126,19 @@ const WhatIDo = () => {
             </div>
             <div className="what-corner"></div>
             <div className="what-content-in">
-              <h3>UI/UX Web</h3>
-              <h4>UI/UX & Web Design</h4>
+              <h3>VISUAL & CGI</h3>
+              <h4>CGI, Lighting & Visual Storytelling</h4>
               <p>
-                I design clean and simple interfaces that focus on usability and visual clarity. 
-                Blending design with structure to create smooth user experiences.
+                I create detailed 3D visuals and environments for film and creative projects  
+                focusing on realism, lighting, and storytelling.
               </p>
               <h5>Skillset & tools</h5>
               <div className="what-content-flex">
-                <div className="what-tags">Framer</div>
-                <div className="what-tags">Figma</div>
-                <div className="what-tags">Spline</div>
-                <div className="what-tags">UI Design</div>
-                <div className="what-tags">UX Thinking</div>
+                <div className="what-tags">After Effect</div>
+                <div className="what-tags">Compositing</div>
+                <div className="what-tags">VFX</div>
+                <div className="what-tags">Premiere pro</div>
+                <div className="what-tags">Ai</div>
               </div>
               <div className="what-arrow"></div>
             </div>
