@@ -14,8 +14,6 @@ const Contact = () => {
                 ks.kunal2004@gmail.com
               </a>
             </p>
-            <h4>Education</h4>
-            <p>Computer Science & Engineering</p>
           </div>
           <div className="contact-box">
             <h4>Social</h4>
